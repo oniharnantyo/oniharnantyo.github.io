@@ -43,7 +43,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: recursive
-      
+
       - name: Init Git submodules
         run: git submodule update --init --recursive
 

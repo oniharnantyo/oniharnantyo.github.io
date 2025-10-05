@@ -1,0 +1,35 @@
+[[main]]
+name = "Tentang"
+url = "/#about"
+weight = 2
+
+[[main]]
+name = "Keahlian"
+url = "/#skills"
+weight = 3
+
+[[main]]
+name = "Pengalaman"
+url = "/#experience"
+weight = 4
+
+[[main]]
+name = "Portofolio"
+pageRef = "/portfolio"
+weight = 4.2
+
+[[main]]
+name = "Tumpukan Teknologi"
+url = "/#technical"
+weight = 4.5
+
+[[main]]
+name = "Kontak"
+url = "/#contact"
+weight = 5
+
+[[main]]
+name = "Blog"
+pageRef = "/blog"
+weight = 60
+

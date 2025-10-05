@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30c9b80c-e1ff-4b37-84ac-5f4e48e9da2a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.claude/settings.local.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/hugo.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/oniharnantyo.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stylelintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/_default/menus.en.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/_default/menus.id.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/en/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/en/blog/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/en/blog/my-first-post.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/en/contact.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/en/experience.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/en/portfolio.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/en/skills.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/en/technical.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/id/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/id/blog/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/id/blog/post-pertama-saya.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/id/contact.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/id/experience.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/id/portfolio.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/id/skills.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/id/technical.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/en.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/i18n/id.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/files/CV_Oni Harnantyo_EN.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/oniharnantyo-og.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/COLOR_CUSTOMIZATION.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/assets/css/semantic-colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/assets/js/gsap-animations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/assets/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/config.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/example-config.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/images/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/images/tn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/_default/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/_default/baseof.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/_default/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/_default/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/_default/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/_default/terms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/blog/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/partials/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/partials/color-variables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/partials/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/partials/experience.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/partials/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/partials/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/partials/hero.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/partials/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/partials/portfolio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/partials/skills.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/partials/technical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/portfolio/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/shortcodes/demo-image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/shortcodes/gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/shortcodes/github.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/shortcodes/iframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/shortcodes/vimeo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/layouts/shortcodes/youtube.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/careercanvas/theme.toml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1759667006" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="33b5ui17nbGoVLJBBIi6NnX2RBf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.GoLinterPluginOnboarding": "true",
+    "RunOnceActivity.GoLinterPluginStorageMigration": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/oniharnantyo/projects/oniharnantyo.github.io/config/_default",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "/Users/oniharnantyo/projects/oniharnantyo.github.io/node_modules/stylelint",
+    "nodejs_interpreter_path": "/Users/oniharnantyo/.nvm/versions/node/v24.9.0/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.nodejs"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config/_default" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images" />
+      <recent name="$PROJECT_DIR$/static/files" />
+      <recent name="$PROJECT_DIR$/themes/hugo-profile" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/themes" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-f466f9b0953e-3d2cccfc42a2-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-252.26199.158" />
+        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-GO-252.26199.158" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30c9b80c-e1ff-4b37-84ac-5f4e48e9da2a" name="Changes" comment="" />
+      <created>1759573157699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759573157699</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>

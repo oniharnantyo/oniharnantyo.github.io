@@ -1,0 +1,127 @@
+# Base UI translations (theme-ready). Add/remove keys as needed.
+
+[read_more]
+other = "Baca selengkapnya"
+
+[by]
+other = "oleh"
+
+[posted_on]
+other = "Diposting pada"
+
+[tags]
+other = "Tag"
+
+[contact]
+other = "Kontak"
+
+[send]
+other = "Kirim"
+
+[skills]
+other = "Kemampuan"
+
+[experience]
+other = "Pengalaman"
+
+[about]
+other = "Tentang"
+
+[blog]
+other = "Blog"
+
+[engineering]
+other = "Teknik"
+
+[contributions]
+other = "Kontribusi"
+
+[technical]
+other = "Tumpukan Teknologi"
+
+[language]
+other = "Bahasa"
+
+[getInTouch]
+other = "Hubungi Saya"
+
+[learnMore]
+other = "Pelajari lebih lanjut"
+
+[sendMeAMessage]
+other = "Kirimkan saya pesan"
+
+[contactInformation]
+other = "Informasi Kontak"
+
+[priorityContact]
+other = "Kontak Prioritas"
+
+[aboutMe]
+other = "Tentang Saya"
+
+[connectOnLinkedIn]
+other = "Hubungkan di LinkedIn"
+
+[quickFacts]
+other = "Fakta Singkat"
+
+[more]
+other = "Lainnya"
+
+[aboutName]
+other = "Tentang"
+
+[relatedContent]
+other = "Konten Terkait"
+
+[interests]
+other = "Minat"
+
+[languages]
+other = "Bahasa"
+
+[helloIm]
+other = "Halo, saya"
+
+[viewCV]
+other = "Lihat CV"
+
+[downloadResume]
+other = "Unduh Resume"
+
+[keyAchievements]
+other = "Pencapaian Utama"
+
+[demoImageAlt]
+other = "Gambar Demo"
+
+[galleryNotFound]
+other = "Gambar galeri tidak ditemukan di"
+
+[viewOnGithub]
+other = "Lihat sumber lengkap di GitHub"
+
+[iframeIdRequired]
+other = "Kesalahan: Parameter 'id' diperlukan untuk shortcode iframe."
+
+[fullscreen]
+other = "Layar penuh"
+
+[youtubePlayerTitle]
+other = "Pemutar video YouTube"
+
+[vimeoPlayerTitle]
+other = "Pemutar video Vimeo"
+
+[pageNotFound]
+other = "Halaman Tidak Ditemukan"
+
+[pageNotFoundSubtitle]
+other = "Halaman yang Anda cari tidak ada."
+
+[goHome]
+other = "Ke beranda"
+
+[certainlyNotHere]
+other = "Pasti tidak di sini"

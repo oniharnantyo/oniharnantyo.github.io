@@ -1,0 +1,104 @@
+baseURL = "https://oniharnantyo.github.io"
+languageCode = "en-us"
+title = "Oni Harnantyo"
+theme = "careercanvas"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 1
+    [languages.en.params]
+      tagline = "Software Engineer. Backend."
+      hero_description = "Software Engineer and Squad Lead with 6+ years of experience in backend systems, fraud detection, and cloud-native architectures. At LinkAja, I lead the AI/ML & Fraud squad, driving cost savings, improving observability, and scaling critical services."
+      hero_location = "Tangerang, Indonesia"
+      collab_tags = [
+        "Backend Engineering",
+        "Fraud Detection",
+        "AI/ML Solutions",
+      ]
+  [languages.id]
+    contentDir = "content/id"
+    languageName = "Bahasa Indonesia"
+    weight = 2
+    [languages.id.params]
+      tagline = "Software Engineer. Backend."
+      hero_description = "Insinyur perangkat lunak dan Squad Lead dengan pengalaman 6+ tahun dalam sistem backend, deteksi penipuan, dan arsitektur cloud-native. Di LinkAja, saya memimpin tim AI/ML & Fraud, mendorong penghematan biaya, meningkatkan observabilitas, dan menskalakan layanan kritis."
+      hero_location = "Tangerang, Indonesia"
+      collab_tags = [
+        "Solusi AI/ML",
+        "Backend Engineerivm  bng",
+        "R&D & Inovasi",
+        "Kepemimpinan Teknis",
+        "Deteksi Penipuan"
+      ]
+
+[build]
+  writeStats = true
+
+[params]
+name = "Oni Harnantyo"
+email = "oni.harnantyo97@gmail.com"
+profile_image = "/images/oniharnantyo-og.png"
+author = "Oni Harnantyo"
+
+og_image = "images/oniharnantyo-og.png"
+
+description = "Software engineer and squad lead specializing in backend systems, fintech solutions, and fraud detection with expertise in Golang, Kubernetes, and AI/ML technologies."
+
+linkedin_url = "https://www.linkedin.com/in/oniharnantyo"
+linkedin_text = "linkedin.com/in/oniharnantyo"
+github_url = "https://github.com/oniharnantyo"
+github_text = "github.com/oniharnantyo"
+
+copyright = "© 2025 | Oni Harnantyo"
+
+# Portfolio Configuration
+portfolio_projects_on_homepage = 3
+
+
+resume_url_en = "/files/CV_Oni Harnantyo_EN.pdf"
+resume_url_id = "/files/CV_Oni Harnantyo_EN.pdf"
+resume_label = "View CV"
+
+formspree_endpoint = "https://formspree.io/f/xgvkkdnn" # Change to your Formspree endpoint
+
+
+[[params.social]]
+icon = "linkedin-in"
+url = "https://www.linkedin.com/in/oniharnantyo/"
+
+[[params.social]]
+icon = "github"
+url = "https://github.com/oniharnantyo"
+
+sectionPagesMenu = 'main'
+
+
+[taxonomies]
+  tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "monokai"
+
+[server]
+  [[server.headers]]
+    for = "/**/*.css"
+    [server.headers.values]
+      Content-Type = "text/css"
+
+
+# Branding Configuration - Savannah King
+[params.colors]
+  # main_color   = "#A97142"  # Lion Brown, warm and dominant
+  # second_color = "#2E2E2E"  # Dark Charcoal, authority
+  # third_color  = "#E6B325"  # Golden Mane, majesty and power
+  main_color   = "#095BB0"  # Slightly Darker LinkedIn Blue, professional and trustworthy
+  second_color = "#004182"  # Darker Blue, for depth and sophistication
+  third_color  = "#8C8C8C"  # Neutral Gray, for balance and modernity
